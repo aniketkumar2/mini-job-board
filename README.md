@@ -1,6 +1,6 @@
-## 🧳 Mini Job Board
+## 🧳 Image captioning 
 ## 🚀 Live App  
-🔗 [mini-job-board.vercel.app](https://mini-job-board-mu-ashy.vercel.app)
+🔗 [image_captioning.vercel.app](https://mini-job-board-mu-ashy.vercel.app)
 
 A full-stack job board web application to:
 
